@@ -37,6 +37,10 @@ public class PaddleController : MonoBehaviour
 
     private void MoveObject(Vector2 movement)
     {
+<<<<<<< Updated upstream
+=======
+        Debug.Log("Speed Paddle : " + movement);
+>>>>>>> Stashed changes
         rig.velocity = movement;
     }
 }

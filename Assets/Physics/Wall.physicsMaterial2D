@@ -6,10 +6,6 @@ PhysicsMaterial2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ball
-<<<<<<< Updated upstream
-  friction: 0.4
-=======
+  m_Name: Wall
   friction: 0.2
->>>>>>> Stashed changes
   bounciness: 1
